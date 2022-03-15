@@ -144,6 +144,10 @@
     <ClCompile Include="day03.c" />
     <ClCompile Include="day04.c" />
     <ClCompile Include="day05.c" />
+    <ClCompile Include="day06.c" />
+    <ClCompile Include="day07.c" />
+    <ClCompile Include="day08.c" />
+    <ClCompile Include="day09.c" />
     <ClCompile Include="forPractice.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

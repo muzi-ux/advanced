@@ -36,5 +36,17 @@
     <ClCompile Include="day05.c">
       <Filter>源文件\structure</Filter>
     </ClCompile>
+    <ClCompile Include="day06.c">
+      <Filter>源文件\structure</Filter>
+    </ClCompile>
+    <ClCompile Include="day07.c">
+      <Filter>源文件\structure</Filter>
+    </ClCompile>
+    <ClCompile Include="day08.c">
+      <Filter>源文件\structure</Filter>
+    </ClCompile>
+    <ClCompile Include="day09.c">
+      <Filter>源文件\structure</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

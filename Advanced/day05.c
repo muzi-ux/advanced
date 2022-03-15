@@ -47,7 +47,7 @@ void exchange_ress1(int* a, int* b)
 	*b = z;
 }
 
-int main()
+int m5()
 {
 	// 这里的 get_max(1, 10) 1和10 叫实际参数也叫实参
 	printf("1和10的较大数位：%d\n", get_max(1, 10));
